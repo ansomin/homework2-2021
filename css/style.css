@@ -48,11 +48,11 @@ div {
 }
 
 #yellow > h2, #yellow > p {
-    color: #bebcbc;
+    color: #000000;
 }
 
 #yellow > h2 {
-    color: #c7e2c7;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green {
@@ -60,7 +60,7 @@ div {
     text-align: left;
 }
 
-footer p {
+footer {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
